@@ -5,7 +5,18 @@ description: Functional Programming is a software development technology or prac
   helps developers and engineering teams work more efficiently and deliver higher-quality
   software products.
 type: Index
-image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/functional-programming.png
 access: 3rd-Party
 created: '2025-01-01'
 modified: '2026-04-28'
